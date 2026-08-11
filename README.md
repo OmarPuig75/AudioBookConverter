@@ -15,7 +15,7 @@ AudioBookConverter converts text and ebooks into narrated .m4b audiobooks using 
 - Chapter editing — adjust and organize chapters before export
 - Custom cover art — add artwork for your library
 - Native .m4b export — plays natively in Apple Books, Overcast, and any standard audiobook player
-- Free & open — no subscription, no account required
+- Free to use — no subscription, no account required
 
 ## Demo
 
@@ -35,7 +35,7 @@ Apple Silicon Macs only. Requires macOS 14 (Sonoma) or later on an M1 or newer M
 ## Installation
 1. Download the .dmg from the latest release
 2. Open the .dmg and drag AudioBookConverter into your Applications folder
-3. On first launch, macOS will likely show a Gatekeeper warning since this app is distributed outside the App Store. See below to open it safely.
+3. On first launch, macOS will show a one-time security dialog — see Opening the app below.
 
 ## Opening the app (Gatekeeper warning)
 
