@@ -23,9 +23,7 @@ Free & open — no subscription, no account required
 
 ## Download
 
-
-Download the latest release
-**[⬇️ Download the latest release](https://github.com/OmarPuig75/AudioBookConverter/releases/latest)**
+[![Download DMG](https://img.shields.io/badge/Download-AudioBookConverter.dmg-blue?style=for-the-badge)](https://github.com/OmarPuig75/AudioBookConverter/releases/download/v1.0.0/AudioBookConverter.dmg)
 
 Apple Silicon Macs only. Requires macOS 14 (Sonoma) or later on an M1 or newer Mac. Intel Macs are not supported — see System Requirements for why.
 
