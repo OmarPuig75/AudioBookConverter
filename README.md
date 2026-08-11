@@ -11,11 +11,11 @@ Converts any PDF or DRM-free ePub into an audiobook — for free.
 
 AudioBookConverter converts text and ebooks into narrated .m4b audiobooks using on-device text-to-speech (Kokoro TTS) — no cloud processing, no subscription. Import your source, choose a voice, edit chapters, add cover art, and export a ready-to-play audiobook file.
 
-On-device TTS conversion — text/ebooks → narrated audio, no internet required after setup
-Chapter editing — adjust and organize chapters before export
-Custom cover art — add artwork for your library
-Native .m4b export — plays natively in Apple Books, Overcast, and any standard audiobook player
-Free & open — no subscription, no account required
+- On-device TTS conversion — text/ebooks → narrated audio, no internet required after setup
+- Chapter editing — adjust and organize chapters before export
+- Custom cover art — add artwork for your library
+- Native .m4b export — plays natively in Apple Books, Overcast, and any standard audiobook player
+- Free & open — no subscription, no account required
 
 ## Demo
 
@@ -39,15 +39,13 @@ Apple Silicon Macs only. Requires macOS 14 (Sonoma) or later on an M1 or newer M
 
 ## Opening the app (Gatekeeper warning)
 
-Since AudioBookConverter isn't distributed through the Mac App Store, macOS may warn that it "cannot be opened because the developer cannot be verified" on first launch. The app is notarized by Apple, so this is expected, not a security issue — here's how to open it:
+Since AudioBookConverter isn't distributed through the Mac App Store, macOS will show a one-time warning on first launch, since it was downloaded from the internet rather than the App Store. This is expected — the app is notarized by Apple, so macOS will confirm no malicious software was detected.
 
-1. Try to open the app normally (double-click) — you'll see the warning dialog
-2. Go to System Settings → Privacy & Security
-3. Scroll down to the Security section — you'll see a message about AudioBookConverter being blocked
-4. Click "Open Anyway"
-5. Confirm in the follow-up dialog
+1. Open the .dmg and double-click AudioBookConverter
+2. You'll see a dialog: "AudioBookConverter is an app downloaded from the Internet. Are you sure you want to open it?" — along with confirmation that Apple checked it and found nothing malicious
+3. Click Open
 
-You'll only need to do this once — subsequent launches will open normally.
+That's it — you won't be prompted again on future launches.
 
 ## Origin story
 
