@@ -1,2 +1,64 @@
 # AudioBookConverter
-Convert PDFs and DRM-free ePubs into narrated audiobooks on your Mac — free, on-device TTS, no subscription. Apple Silicon only.
+
+Converts any PDF or DRM-free ePub into an audiobook — for free.
+
+Show ImageShow ImageShow Image
+
+Show Image
+
+What it does
+
+AudioBookConverter converts text and ebooks into narrated .m4b audiobooks using on-device text-to-speech (Kokoro TTS) — no cloud processing, no subscription. Import your source, choose a voice, edit chapters, add cover art, and export a ready-to-play audiobook file.
+
+On-device TTS conversion — text/ebooks → narrated audio, no internet required after setup
+Chapter editing — adjust and organize chapters before export
+Custom cover art — add artwork for your library
+Native .m4b export — plays natively in Apple Books, Overcast, and any standard audiobook player
+Free & open — no subscription, no account required
+Demo
+
+[Embed or link a short screen recording / GIF here showing: import → convert → edit chapters → add cover → export]
+
+Download
+
+⬇️ Download the latest release
+
+Grab the .dmg from the Releases page, mounted and ready to drag into Applications.
+
+⚠️ Apple Silicon Macs only. Requires macOS 14 (Sonoma) or later on an M1 or newer Mac. Intel Macs are not supported — see System Requirements for why.
+
+System Requirements
+macOS 14 (Sonoma) or later
+Apple Silicon (M1 or later) — Intel Macs are not supported. AudioBookConverter's TTS conversion pipeline runs on MLX, Apple's machine learning framework built exclusively for Apple Silicon's unified memory architecture. There is no Intel/x86 code path, so the app cannot run on Intel-based Macs.
+~500 MB free disk space (the app itself is ~20–30 MB; the Kokoro TTS voice model downloads separately on first use, ~300 MB, one-time)
+Installation
+Download the .dmg from the latest release
+Open the .dmg and drag AudioBookConverter into your Applications folder
+On first launch, macOS will likely show a Gatekeeper warning since this app is distributed outside the App Store. See below to open it safely.
+Opening the app (Gatekeeper warning)
+
+Since AudioBookConverter isn't distributed through the Mac App Store, macOS may warn that it "cannot be opened because the developer cannot be verified" on first launch. The app is notarized by Apple, so this is expected, not a security issue — here's how to open it:
+
+Try to open the app normally (double-click) — you'll see the warning dialog
+Go to System Settings → Privacy & Security
+Scroll down to the Security section — you'll see a message about AudioBookConverter being blocked
+Click "Open Anyway"
+Confirm in the follow-up dialog
+
+You'll only need to do this once — subsequent launches will open normally.
+
+Origin story
+
+Ever bought an audiobook and wished you could hear it in a different voice? Unless you already know the narrator, picking an audiobook is often a bit of a gamble — you're stuck with whatever voice the publisher chose. AudioBookConverter started as a simple fix for that: convert the books and documents you already have into an audiobook narrated the way you want, on your own terms.
+
+Roadmap
+
+[Optional — planned features, known limitations, etc.]
+
+License
+
+AudioBookConverter is free to download and use. The source code is closed and not publicly available.
+
+Feedback & issues
+
+Found a bug or have a feature request? Open an issue.
