@@ -23,9 +23,9 @@ Free & open — no subscription, no account required
 
 ## Download
 
-⬇️ Download the latest release
 
-Grab the .dmg from the Releases page, mounted and ready to drag into Applications.
+Download the latest release
+
 
 Apple Silicon Macs only. Requires macOS 14 (Sonoma) or later on an M1 or newer Mac. Intel Macs are not supported — see System Requirements for why.
 
