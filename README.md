@@ -23,7 +23,7 @@ AudioBookConverter converts text and ebooks into narrated .m4b audiobooks using 
 
 ## Download
 
-[![Download DMG](([https://github.com/OmarPuig75/AudioBookConverter/releases/download/v1.1.0/AudioBookConverter.dmg)]
+[![Download DMG]([https://github.com/OmarPuig75/AudioBookConverter/releases/download/v1.1.0/AudioBookConverter.dmg)]
 
 Apple Silicon Macs only. Requires macOS 14 (Sonoma) or later on an M1 or newer Mac. Intel Macs are not supported — see System Requirements for why.
 
