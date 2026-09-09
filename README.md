@@ -5,6 +5,8 @@ Converts any PDF or DRM-free ePub into an audiobook — for free.
 <img width="2059" height="1420" alt="Screen 1" src="https://github.com/user-attachments/assets/49118e8c-bb57-4c25-88c5-610a570748a9" />
 <img width="2059" height="1420" alt="Screen 5" src="https://github.com/user-attachments/assets/98397dec-eda1-4ac7-b441-701d45ea5947" />
 <img width="2059" height="1420" alt="Screen 7" src="https://github.com/user-attachments/assets/4b8afc64-e067-4d19-b7bf-2b96c68ec2c7" />
+<img width="2059" height="1420" alt="Screen 11" src="https://github.com/user-attachments/assets/d607923c-3fb6-4c8b-955d-917bfae94f81" />
+<img width="2059" height="1420" alt="Screen 9" src="https://github.com/user-attachments/assets/b27763e3-1ad4-47f3-af19-df2863a5f6de" />
 
 
 ## What it does
