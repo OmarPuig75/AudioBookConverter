@@ -49,6 +49,41 @@ Since AudioBookConverter isn't distributed through the Mac App Store, macOS will
 
 That's it — you won't be prompted again on future launches.
 
+## Narrators
+
+AudioBookConverter ships with 19 bundled AI voices powered by the Kokoro-82M model. No internet connection is required after the initial model download.
+
+### American English
+
+| Name | Gender |
+|---|---|
+| Adam | Male |
+| Alloy | Female |
+| Bella | Female |
+| Echo | Male |
+| Eric | Male |
+| Fenrir | Male |
+| Heart | Female |
+| Jessica | Female |
+| Kore | Female |
+| Liam | Male |
+| Michael | Male |
+| Sarah | Female |
+
+### British English
+
+| Name | Gender |
+|---|---|
+| Alice | Female |
+| Daniel | Male |
+| Emma | Female |
+| Fable | Male |
+| George | Male |
+| Isabella | Female |
+| Lily | Female |
+
+> All voice embeddings are bundled with the app (~522 KB each). The shared model weights (~300 MB) are downloaded once on first launch.
+
 ## Origin story
 
 Ever bought an audiobook and wished you could hear it in a different voice? Unless you already know the narrator, picking an audiobook is often a bit of a gamble — you're stuck with whatever voice the publisher chose. AudioBookConverter started as a simple fix for that: convert the books and documents you already have into an audiobook narrated the way you want, on your own terms.
