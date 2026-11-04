@@ -37,7 +37,7 @@ Apple Silicon Macs only. Requires macOS 14 (Sonoma) or later on an M1 or newer M
 
 ## Opening the app (Gatekeeper warning)
 
-Since AudioBookConverter isn't distributed through the Mac App Store, macOS will show a one-time warning on first launch, since it was downloaded from the internet rather than the App Store. This is expected — the app is notarized by Apple, so macOS will confirm no malicious software was detected.
+Since AudioBookConverter isn't distributed through the Mac App Store, macOS will show a one-time warning on first launch. This is expected — the app is notarized by Apple, so macOS will confirm no malicious software was detected.
 
 1. Launch AudioBookConverter from Applications folder.
 2. You'll see a dialog: "AudioBookConverter is an app downloaded from the Internet. Are you sure you want to open it?" — along with confirmation that Apple checked it and found nothing malicious
