@@ -28,7 +28,7 @@ Apple Silicon Macs only. Requires macOS 14 (Sonoma) or later on an M1 or newer M
 ## System Requirements
 - macOS 14 (Sonoma) or later
 - Apple Silicon (M1 or later) — Intel Macs are not supported. AudioBookConverter's TTS conversion pipeline runs on MLX, Apple's machine learning framework built exclusively for Apple Silicon's unified memory architecture. There is no Intel/x86 code path, so the app cannot run on Intel-based Macs.
-- ~500 MB free disk space (the app itself is ~20–30 MB; the Kokoro TTS voice model downloads separately on first use, ~300 MB, one-time)
+- ~500 MB free disk space (the app itself is ~20–30 MB; the Kokoro TTS voice model downloads separately on first launch, ~300 MB, one-time)
 
 ## Installation
 1. Download the .dmg from the latest release
