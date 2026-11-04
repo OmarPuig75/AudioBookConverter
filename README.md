@@ -18,9 +18,6 @@ AudioBookConverter converts text and ebooks into narrated .m4b audiobooks using 
 - Native .m4b export — plays natively in Apple Books, Overcast, and any standard audiobook player
 - Free to use — no subscription, no account required
 
-## Demo
-
-[Embed or link a short screen recording / GIF here showing: import → convert → edit chapters → add cover → export]
 
 ## Download
 
